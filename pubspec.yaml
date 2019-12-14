@@ -73,3 +73,6 @@ flutter:
 
   assets:
     - images/picture.jpg
+    - images/join_1.jpg
+    - images/join_2.jpg
+    - images/join_3.jpg
